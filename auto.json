@@ -1,7 +1,7 @@
 {
   "edition": "auto",
   "version": "2.10.21",
-  "download_url": "https://github.com/yiqiuye/Simmc-QTE-Releases/releases/download/v2.10.21-final/Simmc-QTE-2.10.21.jar",
+  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Simmc-QTE-2.10.21.jar",
   "sha256": "c4cbfdde5f3a9ce0b6977054b9a9f5f080e6d12ec576b33ae283df6a2f77188a",
   "changelog": "更新提示按当前版本到最新版本分段显示，不重复上一版本内容；修复“我的记录”第二页点击鱼类下拉后自动跳回第一页",
   "changes": [
