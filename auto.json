@@ -1,8 +1,8 @@
 {
   "edition": "auto",
-  "version": "2.10.19",
-  "download_url": "https://github.com/yiqiuye/Simmc-QTE-Releases/releases/download/v2.10.19/Simmc-QTE-2.10.19.jar",
-  "sha256": "c5d9a9bd92e8d05c515398978ff3710778ad892cea6ce236964831223fed17bb",
+  "version": "2.10.20",
+  "download_url": "https://github.com/yiqiuye/Simmc-QTE-Releases/releases/download/v2.10.20/Simmc-QTE-2.10.20.jar",
+  "sha256": "668ad8f4462b5664f4ebe662e3aa0a6ee704507cac482753c733ba0be11f4d0b",
   "changelog": "钓鱼跨过零点后自动切换到新一天；设置界面的显示内容按钮在下方展开菜单；可分别隐藏钓到时间、分类、状态和长度；隐藏钓到时间时日期翻页栏保留；全部隐藏时精简显示为你钓到了…；更新提示只显示当前最新版，可跨多个旧版本直接更新；QTE排行榜鱼类名称按拼音字母顺序排列；更新提示增加重启期间请勿手动启动游戏的警告",
   "changes": [
     "钓鱼跨过零点后自动切换到新一天",
