@@ -1,12 +1,12 @@
 {
   "edition": "auto",
-  "version": "2.10.21",
-  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Simmc-QTE-2.10.21.jar",
-  "sha256": "c4cbfdde5f3a9ce0b6977054b9a9f5f080e6d12ec576b33ae283df6a2f77188a",
-  "changelog": "更新提示按当前版本到最新版本分段显示，不重复上一版本内容；修复“我的记录”第二页点击鱼类下拉后自动跳回第一页",
+  "version": "2.10.22",
+  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Simmc-QTE-2.10.22.jar",
+  "sha256": "36ac591afe2b9946acefafd5f8e4d1a7f2185b84da3b5c8c1503e62f50da8ca8",
+  "changelog": "优化在线玩家目录和QTE排行榜的刷新速度；修复“我的记录”每帧重复排序造成的窗口卡顿",
   "changes": [
-    "更新提示按当前版本到最新版本分段显示，不重复上一版本内容",
-    "修复“我的记录”第二页点击鱼类下拉后自动跳回第一页"
+    "优化在线玩家目录和QTE排行榜的刷新速度",
+    "修复“我的记录”每帧重复排序造成的窗口卡顿"
   ],
   "releases": [
     {
@@ -50,6 +50,13 @@
       "changes": [
         "更新提示按当前版本到最新版本分段显示，不重复上一版本内容",
         "修复“我的记录”第二页点击鱼类下拉后自动跳回第一页"
+      ]
+    },
+    {
+      "version": "2.10.22",
+      "changes": [
+        "优化在线玩家目录和QTE排行榜的刷新速度",
+        "修复“我的记录”每帧重复排序造成的窗口卡顿"
       ]
     }
   ]
