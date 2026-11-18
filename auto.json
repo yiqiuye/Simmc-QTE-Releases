@@ -1,7 +1,7 @@
 {
   "edition": "auto",
   "version": "2.10.23",
-  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Simmc-QTE-2.10.23.jar",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.23.jar",
   "sha256": "facdaa6ca3d37633ea0e9df88ed111ae9ee2722e82db4f793ca65868dc44bccc",
   "changelog": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
   "changes": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
