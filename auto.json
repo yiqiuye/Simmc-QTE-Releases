@@ -1,13 +1,10 @@
 {
   "edition": "auto",
-  "version": "2.10.22",
-  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Simmc-QTE-2.10.22.jar",
-  "sha256": "36ac591afe2b9946acefafd5f8e4d1a7f2185b84da3b5c8c1503e62f50da8ca8",
-  "changelog": "优化在线玩家目录和QTE排行榜的刷新速度；修复“我的记录”每帧重复排序造成的窗口卡顿",
-  "changes": [
-    "优化在线玩家目录和QTE排行榜的刷新速度",
-    "修复“我的记录”每帧重复排序造成的窗口卡顿"
-  ],
+  "version": "2.10.23",
+  "download_url": "https://qiuzhi.pythonanywhere.com/updates/Simmc-QTE-2.10.23.jar",
+  "sha256": "facdaa6ca3d37633ea0e9df88ed111ae9ee2722e82db4f793ca65868dc44bccc",
+  "changelog": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
+  "changes": "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿",
   "releases": [
     {
       "version": "2.10.14",
@@ -57,6 +54,12 @@
       "changes": [
         "优化在线玩家目录和QTE排行榜的刷新速度",
         "修复“我的记录”每帧重复排序造成的窗口卡顿"
+      ]
+    },
+    {
+      "version": "2.10.23",
+      "changes": [
+        "缓存玩家列表和头像纹理，减少打开排行榜与玩家目录时的画面卡顿"
       ]
     }
   ]
