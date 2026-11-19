@@ -3,10 +3,9 @@
   "version": "2.10.26",
   "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.26.jar",
   "sha256": "d37e4ead9d1b23e0031b0e5366afe7f92352b7cdd5d880e57adae157670fed40",
-  "changelog": "不再生成 .qte-old 备份文件，并自动清理已有文件；更新检查改用腾讯云清单，减少超时导致不提示",
+  "changelog": "修复无限翻页的bug",
   "changes": [
-    "不再生成 .qte-old 备份文件，并自动清理已有文件",
-    "更新检查改用腾讯云清单，减少超时导致不提示"
+    "修复无限翻页的bug"
   ],
   "releases": [
     {
@@ -80,8 +79,7 @@
     {
       "version": "2.10.26",
       "changes": [
-        "不再生成 .qte-old 备份文件，并自动清理已有文件",
-        "更新检查改用腾讯云清单，减少超时导致不提示"
+        "修复无限翻页的bug"
       ]
     }
   ]
