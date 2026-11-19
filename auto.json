@@ -1,11 +1,11 @@
 {
   "edition": "auto",
-  "version": "2.10.24",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.24.jar",
-  "sha256": "b31972548d405f5746a93a11399bda553f5d3c91fdabc963a0ffa874e21ac229",
-  "changelog": "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度",
+  "version": "2.10.25",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.25.jar",
+  "sha256": "9ca81218beba041b11d225a5b6a300a3dbe4b62d506cf702ba33cfcb90024af4",
+  "changelog": "修复无限翻页的bug",
   "changes": [
-    "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度"
+    "修复无限翻页的bug"
   ],
   "releases": [
     {
@@ -68,6 +68,12 @@
       "version": "2.10.24",
       "changes": [
         "玩家目录和QTE排行榜改用腾讯云COS快照，提升国内刷新速度"
+      ]
+    },
+    {
+      "version": "2.10.25",
+      "changes": [
+        "修复无限翻页的bug"
       ]
     }
   ]
