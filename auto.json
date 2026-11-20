@@ -1,12 +1,10 @@
 {
   "edition": "auto",
-  "version": "2.10.26",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.26.jar",
-  "sha256": "d37e4ead9d1b23e0031b0e5366afe7f92352b7cdd5d880e57adae157670fed40",
-  "changelog": "修复无限翻页的bug",
-  "changes": [
-    "修复无限翻页的bug"
-  ],
+  "version": "2.10.27",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.27.jar",
+  "sha256": "1cd413f2a308a110967f93628fceb44e9441668db2003a8f05d849ea2b11f5d6",
+  "changelog": "",
+  "changes": [],
   "releases": [
     {
       "version": "2.10.14",
@@ -81,6 +79,10 @@
       "changes": [
         "修复无限翻页的bug"
       ]
+    },
+    {
+      "version": "2.10.27",
+      "changes": []
     }
   ]
 }
