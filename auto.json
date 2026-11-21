@@ -1,8 +1,8 @@
 {
   "edition": "auto",
-  "version": "2.10.28",
-  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.28.jar",
-  "sha256": "b8974d2b3c902c11ca4cc668bbc6ae45a97046218d478725aaebf90f033cda3d",
+  "version": "2.10.29",
+  "download_url": "https://simmc-qte-updates-1483023376-1483023376.cos.ap-guangzhou.myqcloud.com/updates/Simmc-QTE-2.10.29.jar",
+  "sha256": "7cc843fc9f2ad6342d59bc83ad66625285777b6dbd3d55ffb77503fc9c0f9bb1",
   "changelog": "",
   "changes": [],
   "releases": [
@@ -86,6 +86,10 @@
     },
     {
       "version": "2.10.28",
+      "changes": []
+    },
+    {
+      "version": "2.10.29",
       "changes": []
     }
   ]
